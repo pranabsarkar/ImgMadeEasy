@@ -45,7 +45,7 @@ def video_photo(FILENAME,FOLDER_NAME):
 pathIn = The path which contains all the images.
 pathOut= The output file name in .avi format.
 fps = Define the Frames Per Second.
-
+ 
 """ 
 
 def convert_frames_to_video(pathIn,pathOut,fps):
